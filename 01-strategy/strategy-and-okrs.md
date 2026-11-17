@@ -5,7 +5,7 @@
 ## 1. Playing to Win cascade
 
 | Question | Your choice |
-|---|---|
+|---|---test|
 | **Winning aspiration** | _____ |
 | **Where to play** | _____ |
 | **How to win** | _____ |
